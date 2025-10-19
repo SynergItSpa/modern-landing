@@ -35,37 +35,40 @@ const { content } = Astro.props
         <!-- Form inputs -->
 
         <!-- Name -->
-        <label class="sr-only" for="name">Name</label>
+        <!-- <label class="sr-only" for="name">Nombre</label>
 
         <input
           id="name"
           type="text"
           class="border-2 rounded-lg bg-bs-surface-0 border-bs-surface-3 form-input px-4 py-3"
-          placeholder="Your name"
-        >
+          placeholder="Tu nombre"
+        > -->
 
         <!-- Company -->
-        <label class="sr-only" for="company">Company</label>
+        <!-- <label class="sr-only" for="company">Empresa</label>
 
         <input
           id="company"
           type="text"
           class="border-2 rounded-lg bg-bs-surface-0 border-bs-surface-3 form-input px-4 py-3"
-          placeholder="Your company"
-        >
+          placeholder="Tu empresa"
+        > -->
 
         <!-- Email -->
-        <label class="sr-only" for="email">Email</label>
+        <!-- <label class="sr-only" for="email">Email</label>
 
         <input
           id="email"
           type="email"
           class="border-2 rounded-lg bg-bs-surface-0 border-bs-surface-3 form-input px-4 py-3"
-          placeholder="Your email"
+          placeholder="Tu email"
         >
-
+ -->
         <!-- Submit -->
-        <button class="bs-btn form-input px-4 py-3">{ content.cta }</button>
+        <button type="button" class="bs-btn form-input px-4 py-3" onclick="window.location.href='https://be.synergit.cl/'">
+          { content.cta }
+        </button>
+        
 
     </div>
 

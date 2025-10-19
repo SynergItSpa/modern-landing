@@ -1,25 +1,25 @@
 {
-  "title": "blackspike astro landing page",
-  "description": "A free Astro landing theme made with Tailwind",
+  "title": "Plantilla de Landing Page Moderna para Agencias",
+  "description": "Una plantilla gratuita de Astro con Tailwind para iniciar tu sitio web de agencia",
   "social_image": "/1200x630.jpg",
-  "base_url": "https://astro-theme.blackspike.com",
+  "base_url": "https://be.synergit.cl/",
   "demo": {
-    "title": "Need design?",
-    "content": "<strong>Get a guided tour through our services</strong>, and find out how you and your team can change the way you work, forever.",
-    "cta": "Book a call"
+    "title": "¿Necesitas una landing?",
+    "content": "<strong>Obtén un tour guiado por nuestro template</strong>, y descubre cómo tú y tu equipo pueden cambiar la forma en que trabajan, para siempre.",
+    "cta": "Agendar una reunión"
   },
   "theme_color": "#18181b",
   "nav": [
     {
-      "title": "Services",
+      "title": "Características",
       "link": "/#services"
     },
     {
-      "title": "Case studies",
+      "title": "Ejemplos",
       "link": "/#case-studies"
     },
     {
-      "title": "Pricing",
+      "title": "Precios",
       "link": "/#pricing"
     },
     {
@@ -27,7 +27,7 @@
       "link": "/#faq"
     },
     {
-      "title": "Newsletter",
+      "title": "Boletín",
       "link": "/#newsletter"
     }
   ],
@@ -35,23 +35,23 @@
   "social_links": [
     {
       "title": "Twitter / X",
-      "link": "https://x.com/blackspikeltd/"
+      "link": "https://be.synergit.cl/"
     },
     {
       "title": "Mastodon",
-      "link": "https://mastodon.cloud/@blackspike"
+      "link": "https://be.synergit.cl/"
     },
     {
       "title": "GitHub",
-      "link": "https://github.com/blackspike/"
+      "link": "https://be.synergit.cl/"
     },
     {
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/company/blackspike"
+      "link": "https://be.synergit.cl/"
     },
     {
       "title": "Bluesky",
-      "link": "https://bsky.app/profile/blackspike.com/"
+      "link": "https://be.synergit.cl/"
     }
   ]
 }

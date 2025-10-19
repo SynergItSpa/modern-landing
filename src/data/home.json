@@ -1,14 +1,14 @@
 {
-  "hero_title": "blackspike astro landing page",
-  "hero_content": "<p><strong>A free Astro landing theme made with Tailwind</strong> to help kick start your Astro website.</p><p>Uses modern CSS and HTML features for added zip, plus a slick swiper carousel. All in Astro JSX.</p>",
-  "services_title": "Our services",
-  "clients_title": "Trusted by some great companies",
-  "testimonials_title": "Clients ♥ us",
-  "case_studies_title": "Case studies",
-  "pricing_title": "We do design retainers",
-  "quote_content": "This <strong>design agency</strong> is a <strong>game changer</strong>. Its <strong>creative vision</strong>, <strong>user-focused approach</strong>, and <strong>seamless collaboration</strong> have <strong>transformed</strong> the way we <strong>build our brand</strong>. It’s <strong>not just an agency</strong> — it’s a <strong>powerful partner</strong> that <strong>delivers real results</strong>.",
-  "quote_cite": "Sean Higgins",
-  "quote_role": "CTO, Interia",
+  "hero_title": "Plantilla de Landing Page Moderna para Agencias",
+  "hero_content": "<p><strong>Una plantilla gratuita de Astro con Tailwind</strong> para iniciar rápidamente tu sitio web de agencia.</p><p>Utiliza características modernas de CSS y HTML para mayor dinamismo, además de un carrusel swiper elegante. Todo en Astro JSX.</p>",
+  "services_title": "Características del Template",
+  "clients_title": "Agencias que Confían en Nuestro Template",
+  "testimonials_title": "Clientes ♥ nuestro template",
+  "case_studies_title": "Ejemplos de Landings Creadas",
+  "pricing_title": "Planes para tu Template",
+  "quote_content": "Esta <strong>plantilla de landing</strong> es un <strong>cambio de juego</strong>. Su <strong>visión creativa</strong>, <strong>enfoque centrado en el usuario</strong> y <strong>colaboración perfecta</strong> han <strong>transformado</strong> la forma en que <strong>construimos nuestras marcas</strong>. No es solo una plantilla — es un <strong>potente socio</strong> que <strong>entrega resultados reales</strong>.",
+  "quote_cite": "Juan Pérez",
+  "quote_role": "CTO, Agencia Digital",
   "quote_image": "/content-images/quote-man.avif",
-  "faq_title": "Frequently Asked Questions"
+  "faq_title": "Preguntas Frecuentes"
 }

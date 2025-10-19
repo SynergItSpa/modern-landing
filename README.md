@@ -1,83 +1,83 @@
-# blackspike astro landing page
+# Plantilla de Landing Page Moderna para Agencias
 
-[<img src="public/theme-preview/github-preview.jpg" alt="screens showing theme parts on iPads" style="max-width: 100%; height: auto; width: 100%;" width="1600">](public/theme-preview/github-preview.jpg)
+[<img src="public/theme-preview/github-preview.jpg" alt="pantallas mostrando partes del tema en iPads" style="max-width: 100%; height: auto; width: 100%;" width="1600">](public/theme-preview/github-preview.jpg)
 
-## A free, modern, [Astro](https://astro.build/) landing page theme made with [Tailwind](https://tailwindcss.com/) to help kick start your next Astro project
+## Una plantilla gratuita y moderna de landing page de [Astro](https://astro.build/) hecha con [Tailwind](https://tailwindcss.com/) para iniciar tu próximo proyecto de agencia
 
-We built this page as the first version of our own website, [blackspike.com](https://www.blackspike.com), but switched to a different design later.
+Construimos esta página como la primera versión de nuestro propio sitio web, [blackspike.com](https://www.blackspike.com), pero cambiamos a un diseño diferente después.
 
-Rather than let it gather dust, we decided to modernise it, try out some fresh new CSS features and give it back to the Astro community.
+En lugar de dejarla juntando polvo, decidimos modernizarla, probar algunas nuevas características frescas de CSS y devolverla a la comunidad de Astro.
 
-You can read more about how we built it and the cool new tech we used [on our blog post](https://www.blackspike.com/blog/blackspike-free-astro-tailwind-theme/).
+Puedes leer más sobre cómo la construimos y la nueva tecnología genial que usamos [en nuestro post de blog](https://www.blackspike.com/blog/blackspike-free-astro-tailwind-theme/).
 
-Now available as an official Astro theme! [Download it from the Astro themes page](https://astro.build/themes/details/blackspike-astro-landing-page/)
+¡Ahora disponible como un tema oficial de Astro! [Descárgalo desde la página de temas de Astro](https://astro.build/themes/details/blackspike-astro-landing-page/)
 
-## Live demo https://astro-theme.blackspike.com
+## Demo en vivo https://astro-theme.blackspike.com
 
-We hope you find it useful!
+¡Esperamos que la encuentres útil!
 
-## License
+## Licencia
 
-Theme and 3D images are licensed under a [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/).
+El tema e imágenes 3D están licenciados bajo una [Licencia Pública Internacional Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Created by blackspike [blackspike design](https://www.blackspike.com) – a web design & development team specialising in Astro, Vue, Nuxt & Wordpress websites
+Creado por blackspike [blackspike design](https://www.blackspike.com) – un equipo de diseño y desarrollo web especializado en sitios web de Astro, Vue, Nuxt & Wordpress
 
-## Astro 5 Features
+## Características de Astro 5
 
-- [Image component](https://docs.astro.build/en/guides/images/#display-optimized-images-with-the-image--component) for optimised AVIF images
-- All-[JSX](https://docs.astro.build/en/reference/astro-syntax/) native astro components
-- SVGs imported as [SVG components](https://docs.astro.build/en/guides/images/#svg-components)
-- JSON-powered content (easy to edit UI text or hook up a CMS!)
-- Experimental [Fonts API](https://docs.astro.build/en/reference/experimental-flags/fonts/)
+- [Componente Image](https://docs.astro.build/en/guides/images/#display-optimized-images-with-the-image--component) para imágenes AVIF optimizadas
+- Todos los componentes nativos de [JSX](https://docs.astro.build/en/reference/astro-syntax/)
+- SVGs importados como [componentes SVG](https://docs.astro.build/en/guides/images/#svg-components)
+- Contenido impulsado por JSON (¡fácil de editar texto de UI o conectar un CMS!)
+- [API de Fuentes Experimental](https://docs.astro.build/en/reference/experimental-flags/fonts/)
 
-## CSS & HTML Features
+## Características de CSS & HTML
 
 - [Tailwind 4](https://tailwindcss.com/blog/tailwindcss-v4)
-- HTML modal dialog
-- JS-free scroll-linked animations
-- JS-free exclusive accordions with details/summary (animated!)
-- Container queries
-- Linear easing for bouncing / springing
-- Text wrap pretty / balance
+- Diálogo modal HTML
+- Animaciones vinculadas a scroll sin JS
+- Acordeones exclusivos sin JS con details/summary (¡animados!)
+- Consultas de contenedor
+- Easing lineal para rebotes / resortes
+- Envoltura de texto bonita / balanceada
 
-## JS Features
+## Características de JS
 
-- [swiper.js](https://swiperjs.com/) carousel
+- Carrusel [swiper.js](https://swiperjs.com/)
 
 ## Previews
 
-[<img src="public/theme-preview/blackspike-theme-1.jpg" alt="screenshot of dark theme landing page on desktop and on ipad browsers" style="max-width: 100%; height: auto; width: 100%;" width="1600">](public/theme-preview/blackspike-theme-1.jpg)
+[<img src="public/theme-preview/blackspike-theme-1.jpg" alt="captura de pantalla de landing page de tema oscuro en navegadores de escritorio y iPad" style="max-width: 100%; height: auto; width: 100%;" width="1600">](public/theme-preview/blackspike-theme-1.jpg)
 
-[<img src="public/theme-preview/blackspike-theme-2.jpg" alt="screenshot of dark theme carousel slides with 3D backgrounds" style="max-width: 100%; height: auto; width: 100%;" width="1600">](public/theme-preview/blackspike-theme-2.jpg)
+[<img src="public/theme-preview/blackspike-theme-2.jpg" alt="captura de pantalla de diapositivas de carrusel de tema oscuro con fondos 3D" style="max-width: 100%; height: auto; width: 100%;" width="1600">](public/theme-preview/blackspike-theme-2.jpg)
 
-[<img src="public/theme-preview/blackspike-theme-4.jpg" alt="screens showing theme parts" style="max-width: 100%; height: auto; width: 100%;" width="1600">](public/theme-preview/blackspike-theme-4.jpg)
+[<img src="public/theme-preview/blackspike-theme-4.jpg" alt="pantallas mostrando partes del tema" style="max-width: 100%; height: auto; width: 100%;" width="1600">](public/theme-preview/blackspike-theme-4.jpg)
 
-[<img src="public/theme-preview/blackspike-theme-5.jpg" alt="dark theme pricing section on laptop and iPhone browsers" style="max-width: 100%; height: auto; width: 100%;" width="1600">](public/theme-preview/blackspike-theme-5.jpg)
+[<img src="public/theme-preview/blackspike-theme-5.jpg" alt="sección de precios de tema oscuro en navegadores de laptop e iPhone" style="max-width: 100%; height: auto; width: 100%;" width="1600">](public/theme-preview/blackspike-theme-5.jpg)
 
-[<img src="public/theme-preview/blackspike-theme-full.webp" alt="full page preview" style="max-width: 100%; height: auto; width: 100%;" width="1600">](public/theme-preview/blackspike-theme-full.webp)
+[<img src="public/theme-preview/blackspike-theme-full.webp" alt="preview de página completa" style="max-width: 100%; height: auto; width: 100%;" width="1600">](public/theme-preview/blackspike-theme-full.webp)
 
-## Credits
+## Créditos
 
-- Fake logos by [uicontent.co](https://uicontent.co/svg-dummy-logo/)
-- Quote avatar person by [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
-- Misc icons and logo from [icones.js.org](https://icones.js.org/) by [@antfu](https://github.com/antfu)
-- Carousel powered by [swiperjs.com](https://swiperjs.com/)
-- Inter font by [rsms.me](https://rsms.me/inter/)
+- Logos falsos por [uicontent.co](https://uicontent.co/svg-dummy-logo/)
+- Avatar de cita por [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
+- Íconos misceláneos y logo de [icones.js.org](https://icones.js.org/) por [@antfu](https://github.com/antfu)
+- Carrusel potenciado por [swiperjs.com](https://swiperjs.com/)
+- Fuente Inter por [rsms.me](https://rsms.me/inter/)
 
-## Tags
+## Etiquetas
 
 #tailwind #tailwind4 #astro #landingPage #css #html #swiper #dark #theme
 
-## Commands
+## Comandos
 
-All commands are run from the root of the project, from a terminal:
+Todos los comandos se ejecutan desde la raíz del proyecto, desde una terminal:
 
-| Command                   | Action                                           |
+| Comando                   | Acción                                           |
 | :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+| `npm install`             | Instala dependencias                             |
+| `npm run dev`             | Inicia servidor de desarrollo local en `localhost:4321` |
+| `npm run build`           | Construye tu sitio de producción en `./dist/`   |
+| `npm run preview`         | Previsualiza tu build localmente, antes de desplegar |
+| `npm run astro ...`       | Ejecuta comandos CLI como `astro add`, `astro check` |
+| `npm run astro -- --help` | Obtén ayuda usando el CLI de Astro              |
 

@@ -1,30 +1,30 @@
 [
   {
-    "title": "Basic plan",
-    "tag": "Most popular",
-    "content": "One designer, 5 days a month",
-    "cta": "Start free trial",
-    "price": 999,
+    "title": "Plan Básico",
+    "tag": "Más popular",
+    "content": "Acceso completo al template, soporte básico",
+    "cta": "Agenda una reunión",
+    "price": 0,
     "services": [
-      { "item": "Access to basic services" },
-      { "item": "Basic assets and logos" },
-      { "item": "Up to 10 individual assets" },
-      { "item": "Teams/slack chat" },
-      { "item": "Cancel Anytime" }
+      { "item": "Acceso al código fuente" },
+      { "item": "Documentación básica" },
+      { "item": "Hasta 5 personalizaciones" },
+      { "item": "Chat de soporte" },
+      { "item": "Cancelar en cualquier momento" }
     ]
   },
   {
-    "title": "Enterprise plan",
-    "tag": "Best value",
-    "content": "One team, 5 days a month",
-    "cta": "Enquire now",
-    "price": 2999,
+    "title": "Plan Premium",
+    "tag": "Mejor valor",
+    "content": "Template completo con soporte avanzado",
+    "cta": "Agenda una reunión",
+    "price": 99,
     "services": [
-      { "item": "All basic plan services" },
-      { "item": "100 assets" },
-      { "item": "Advanced reporting and analytics" },
-      { "item": "Up to 30 individual renders" },
-      { "item": "120GB storage allowance" }
+      { "item": "Todo del plan básico" },
+      { "item": "Personalizaciones ilimitadas" },
+      { "item": "Reportes y analíticas" },
+      { "item": "Hasta 50 renders" },
+      { "item": "120GB de almacenamiento" }
     ]
   }
 ]
